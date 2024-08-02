@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<title>My Favorite Anime - One Piece</title>
+<head>
+  <h1>One Piece is the Best Anime!</h1>
+</head>
+<body style="background-color: red;">
+  <h1>Characters in One Piece</h1>
+  <ul>
+    <li>Luffy</li>
+    <li>Zoro</li>
+    <li>Nami</li>
+    <li>Brook</li>
+    <li>Franky</li>
+  </ul>
+  <p>One Piece is the story of a pirate named Luffy who dreams of becoming the Pirate King with his loyal crewmates.</p>
+  <img src="https://images.app.goo.gl/f1tsMtWi9XqyWWuM6" alt="One Piece Image">
+</body>
+</html>
